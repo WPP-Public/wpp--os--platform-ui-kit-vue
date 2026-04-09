@@ -1,7 +1,7 @@
 {
   "name": "@wppopen/components-library-vue",
   "description": "Vue bindings for components-library",
-  "version": "3.5.0",
+  "version": "4.0.0",
 
   "scripts": {
     "clean": "rimraf lib node_modules",
@@ -21,7 +21,7 @@
   "main": "lib/index.js",
 
   "peerDependencies": {
-    "@wppopen/components-library": "3.5.0",
+    "@wppopen/components-library": "git+https://github.com/WPP-Public/wpp--os--platform-ui-kit.git#v4.0.0",
 
     "vue": "^3.2.45"
   },
