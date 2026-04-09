@@ -21,7 +21,7 @@
   "main": "lib/index.js",
 
   "peerDependencies": {
-    "@wppopen/components-library": "3.6.0",
+    "@wppopen/components-library": "git+https://github.com/WPP-Public/wpp--os--platform-ui-kit.git#v3.6.0",
 
     "vue": "^3.2.45"
   },
